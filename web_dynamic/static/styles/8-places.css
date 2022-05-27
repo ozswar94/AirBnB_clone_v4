@@ -99,3 +99,23 @@
 .user {
   margin-bottom: 1.5%;
 }
+
+.reviews span {
+    margin-left: 176px;
+    font-size: 20px;
+    color: gray;
+}
+
+.reviews h2 {
+    margin-left: -9px;
+}
+.reviews {
+    margin-top: 20px;
+}
+
+.reviews ul {
+    list-style: none;
+}
+.reviews ul li {
+    margin-top: 15px;
+}
