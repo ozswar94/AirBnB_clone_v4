@@ -44,7 +44,7 @@ button:hover {
     text-overflow: ellipsis;
     height: 18px;
     overflow: hidden;
-    max-width: 300px;
+    width: 180px;
     margin-top: 12px;
     white-space: nowrap;
 }
@@ -59,7 +59,7 @@ button:hover {
     width: 25%;
 }
 
-.amenities input {
+input {
     margin-right: 10px;
 }
 
